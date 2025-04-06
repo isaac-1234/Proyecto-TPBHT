@@ -15,4 +15,4 @@ las base de datos implicadas las comartí en Railway.com, se pueden consultar en
 3.C:	¿Cómo implementar la solución en producción en un ambiernte local o en la nube como Heroku? Se podrá hacer desde Git, o bien, desde un IDE que tenga clonado el repositorio, hacer commit y push para revisión y finalmente push a la versión final.
 4.CONFIGURACION:
 4.A:	Configuración del producto (archivos de configuración). En este caso no se requiere de configuración ya que todo se hace directamente desde la web.
-4.B:	Configuración de los requerimientos: Solo se requiere de un navegador y conexión a internet.
+4.B:	Configuración de los requerimientos: Solo se requiere de un navegador y conexión a internet
