@@ -4,3 +4,15 @@
 diagrama de clases de la propuesta: https://lucid.app/lucidchart/6f0aec9a-058b-49b8-8015-e02bc27ec9ba/edit?viewport_loc=-220%2C110%2C2416%2C2186%2CDmI4OBgiewSW&invitationId=inv_a30e1910-2b92-4d71-8a7e-343c7b734abe
 la planeación del proyecto, utilizando la metodología Scrum, en Jira: https://isaac7j.atlassian.net/jira/software/projects/TPBHT/boards/34?sprintStarted=true&atlOrigin=eyJpIjoiYmYyMTgzM2FlNzI3NDYzZjk4NTYwOTU3YWE0YWM1ZTEiLCJwIjoiaiJ9
 las base de datos implicadas las comartí en Railway.com, se pueden consultar entrando con Usuario: isaac-1234 y Contraseña: isaac.19961225
+
+2.REQUERIMIENTOS previos importantes:
+2.A:	Servidores de aplicación, web, bases de datos: Heroku servidor web, Git gestión del proyecto, base de datos railway
+2.B:	Paquetes adicionales: Entorno de desarrollo que soporte Java, como NetBeans, PostgreSQL PGAdmin 8.14, sistema operativo Windows 10+,
+2.C:	Versión de Java: Java™ SE Development Kit 21.0.6
+3. INSTALACION:
+3.A:	¿Cómo instalar el ambiente de desarrollo? Todo se hace desde Git, la gestión del proyecto. El usuario no requerirá de instalar nada ya que se prentede que sea una App web, solo deberá ingresar sus credenciales.
+3.B:	¿Cómo ejecutar pruebas manualmente? Se pueden realizar pruebas desde el código fuente, en este caso en Git
+3.C:	¿Cómo implementar la solución en producción en un ambiernte local o en la nube como Heroku? Se podrá hacer desde Git, o bien, desde un IDE que tenga clonado el repositorio, hacer commit y push para revisión y finalmente push a la versión final.
+4.CONFIGURACION:
+4.A:	Configuración del producto (archivos de configuración). En este caso no se requiere de configuración ya que todo se hace directamente desde la web.
+4.B:	Configuración de los requerimientos: Solo se requiere de un navegador y conexión a internet.
