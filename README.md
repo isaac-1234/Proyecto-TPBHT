@@ -19,4 +19,5 @@ las base de datos implicadas las comartí en Railway.com, se pueden consultar en
 5.USO (los dos puntos solicitados, 5A y 5B, están incluidos en el documento adjunto: ManualSistemaContrlInfentarioRenta-IJRM.docx
 5.A: Sección de referencia para usuario final. Manual que hará referencia para los usuarios finales
 5.B: Sección de referencia para usuario administrador.
-[ManualSistemaControlInventarioRenta-IJRM.docx](https://github.com/user-attachments/files/19624158/ManualSistemaControlInventarioRenta-IJRM.docx)
+
+[ManualSistemaControlInventarioRenta-IJRM.docx](https://github.com/user-attachments/files/19626729/ManualSistemaControlInventarioRenta-IJRM.docx)
