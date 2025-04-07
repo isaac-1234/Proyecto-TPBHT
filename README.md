@@ -16,3 +16,7 @@ las base de datos implicadas las comartí en Railway.com, se pueden consultar en
 4.CONFIGURACION:
 4.A:	Configuración del producto (archivos de configuración). En este caso no se requiere de configuración ya que todo se hace directamente desde la web.
 4.B:	Configuración de los requerimientos: Solo se requiere de un navegador y conexión a internet
+5.USO (los dos puntos solicitados, 5A y 5B, están incluidos en el documento adjunto: ManualSistemaContrlInfentarioRenta-IJRM.docx
+5.A: Sección de referencia para usuario final. Manual que hará referencia para los usuarios finales
+5.B: Sección de referencia para usuario administrador.
+[ManualSistemaControlInventarioRenta-IJRM.docx](https://github.com/user-attachments/files/19624158/ManualSistemaControlInventarioRenta-IJRM.docx)
